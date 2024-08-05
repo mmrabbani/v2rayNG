@@ -103,7 +103,7 @@ object AppConfig {
     const val DelayTestUrl2 = "https://www.google.com/generate_204"
 
     const val DNS_PROXY = "1.1.1.1"
-    const val DNS_DIRECT = "223.5.5.5"
+    const val DNS_DIRECT = "8.8.8.8"
     const val DNS_VPN = "1.1.1.1"
 
     const val PORT_LOCAL_DNS = "10853"
