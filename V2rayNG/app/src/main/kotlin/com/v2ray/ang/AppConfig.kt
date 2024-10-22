@@ -95,13 +95,13 @@ object AppConfig {
         "https://raw.githubusercontent.com/2dust/androidpackagenamelist/master/proxy.txt"
     const val v2rayCustomRoutingListUrl =
         "https://raw.githubusercontent.com/2dust/v2rayCustomRoutingList/master/"
-    const val v2rayNGUrl = "https://github.com/2dust/v2rayNG"
+    const val v2rayNGUrl = "https://github.com/mahsanet/NikaNG"
     const val v2rayNGIssues = "$v2rayNGUrl/issues"
     const val v2rayNGWikiMode = "$v2rayNGUrl/wiki/Mode"
-    const val v2rayNGPrivacyPolicy = "https://raw.githubusercontent.com/2dust/v2rayNG/master/CR.md"
-    const val PromotionUrl = "aHR0cHM6Ly85LjIzNDQ1Ni54eXovYWJjLmh0bWw="
+    const val v2rayNGPrivacyPolicy = "https://raw.githubusercontent.com/mahsanet/NikaNG/master/CR.md"
+    const val PromotionUrl = "aHR0cHM6Ly9naXRodWIuY29tL21haHNhbmV0L05pa2FORw=="
     const val GeoUrl = "https://github.com/Chocolate4U/Iran-v2ray-rules/releases/latest/download/"
-    const val TgChannelUrl = "https://t.me/github_2dust"
+    const val TgChannelUrl = "https://t.me/mahsa_net"
     const val DelayTestUrl = "https://www.gstatic.com/generate_204"
     const val DelayTestUrl2 = "https://www.google.com/generate_204"
 
